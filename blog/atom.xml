@@ -2,69 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcollyne.github.io/myPicOnline/blog</id>
     <title>My Pic Online Blog</title>
-    <updated>2017-10-24T06:00:00.000Z</updated>
+    <updated>2021-02-26T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://marcollyne.github.io/myPicOnline/blog"/>
     <subtitle>The best place to stay up-to-date with the latest My Pic Online news and events.</subtitle>
     <logo>https://marcollyne.github.io/myPicOnline/img/favicon.ico</logo>
-    <rights>Copyright © 2021 Your Name or Your Company Name</rights>
+    <rights>Copyright © 2021 by Karollyne Marcola</rights>
     <entry>
-        <title type="html"><![CDATA[New Version 1.0.0]]></title>
-        <id>https://marcollyne.github.io/myPicOnline/blog/2017/10/24/new-version-1.0.0.html</id>
-        <link href="https://marcollyne.github.io/myPicOnline/blog/2017/10/24/new-version-1.0.0.html"/>
-        <updated>2017-10-24T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
+        <title type="html"><![CDATA[Pôr-do-Sol]]></title>
+        <id>https://marcollyne.github.io/myPicOnline/blog/2021/02/26.html</id>
+        <link href="https://marcollyne.github.io/myPicOnline/blog/2021/02/26.html"/>
+        <updated>2021-02-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="/myPicOnline/img/pordosol1.jpg" alt></p> <blockquote> <p>Patrimônio Nice, Assis Chateaubriand, PR.</p> </blockquote> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <name>Foto tirada por Karollyne Marcola</name>
+            <uri>https://www.facebook.com/karollyne.marcola</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding RSS Support]]></title>
-        <id>https://marcollyne.github.io/myPicOnline/blog/2017/09/26/adding-rss.html</id>
-        <link href="https://marcollyne.github.io/myPicOnline/blog/2017/09/26/adding-rss.html"/>
-        <updated>2017-09-26T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></summary>
+        <title type="html"><![CDATA[Paróquia São Francisco de Assis]]></title>
+        <id>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 3.html</id>
+        <link href="https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 3.html"/>
+        <updated>1970-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="/myPicOnline/img/igreja2.jpg" alt></p> <blockquote> <p>Assis Chateaubriand, PR.</p> </blockquote> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <name>Foto tirada por Italo Rodrigues</name>
+            <uri>https://www.facebook.com/italo.rodrigues00</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-        <id>https://marcollyne.github.io/myPicOnline/blog/2017/09/25/testing-rss.html</id>
-        <link href="https://marcollyne.github.io/myPicOnline/blog/2017/09/25/testing-rss.html"/>
-        <updated>2017-09-25T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
-]]></summary>
+        <title type="html"><![CDATA[Nuvens de algodão]]></title>
+        <id>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 2.html</id>
+        <link href="https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 2.html"/>
+        <updated>1970-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="/myPicOnline/img/nuvens.jpg" alt></p> <blockquote> <p>Patrimônio Nice, Assis Chateaubriand, PR.</p> </blockquote> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <name>Foto tirada por Karollyne Marcola</name>
+            <uri>https://www.facebook.com/karollyne.marcola</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Blog Post]]></title>
-        <id>https://marcollyne.github.io/myPicOnline/blog/2017/04/10/blog-post-two.html</id>
-        <link href="https://marcollyne.github.io/myPicOnline/blog/2017/04/10/blog-post-two.html"/>
-        <updated>2017-04-10T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
+        <title type="html"><![CDATA[Bili Chico]]></title>
+        <id>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 1.html</id>
+        <link href="https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 1.html"/>
+        <updated>1970-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="/myPicOnline/img/bili.jpg" alt></p> <blockquote> <p>Formosa do Oeste, PR.</p> </blockquote> ]]></summary>
         <author>
-            <name>Blog Author</name>
-            <uri>http://twitter.com/</uri>
+            <name>Foto tirada por Italo Rodrigues</name>
+            <uri>https://www.facebook.com/italo.rodrigues00</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blog Title]]></title>
-        <id>https://marcollyne.github.io/myPicOnline/blog/2016/03/11/blog-post.html</id>
-        <link href="https://marcollyne.github.io/myPicOnline/blog/2016/03/11/blog-post.html"/>
-        <updated>2016-03-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
+        <title type="html"><![CDATA[Paróquia São Francisco de Assis]]></title>
+        <id>https://marcollyne.github.io/myPicOnline/blog/2021/02/25.html</id>
+        <link href="https://marcollyne.github.io/myPicOnline/blog/2021/02/25.html"/>
+        <updated>2021-02-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="/myPicOnline/img/igreja1.jpg" alt></p> <blockquote> <p>Assis Chateaubriand, PR.</p> </blockquote> ]]></summary>
         <author>
-            <name>Blog Author</name>
-            <uri>http://twitter.com/</uri>
+            <name>Foto tirada por Italo Rodrigues</name>
+            <uri>https://www.facebook.com/italo.rodrigues00</uri>
         </author>
     </entry>
 </feed>

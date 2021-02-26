@@ -4,7 +4,7 @@
         <title>My Pic Online Blog</title>
         <link>https://marcollyne.github.io/myPicOnline/blog</link>
         <description>The best place to stay up-to-date with the latest My Pic Online news and events.</description>
-        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -12,45 +12,41 @@
             <url>https://marcollyne.github.io/myPicOnline/img/favicon.ico</url>
             <link>https://marcollyne.github.io/myPicOnline/blog</link>
         </image>
-        <copyright>Copyright © 2021 Your Name or Your Company Name</copyright>
+        <copyright>Copyright © 2021 by Karollyne Marcola</copyright>
         <item>
-            <title><![CDATA[New Version 1.0.0]]></title>
-            <link>https://marcollyne.github.io/myPicOnline/blog/2017/10/24/new-version-1.0.0.html</link>
-            <guid>https://marcollyne.github.io/myPicOnline/blog/2017/10/24/new-version-1.0.0.html</guid>
-            <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></description>
+            <title><![CDATA[Pôr-do-Sol]]></title>
+            <link>https://marcollyne.github.io/myPicOnline/blog/2021/02/26.html</link>
+            <guid>https://marcollyne.github.io/myPicOnline/blog/2021/02/26.html</guid>
+            <pubDate>Fri, 26 Feb 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="/myPicOnline/img/pordosol1.jpg" alt></p> <blockquote> <p>Patrimônio Nice, Assis Chateaubriand, PR.</p> </blockquote> ]]></description>
         </item>
         <item>
-            <title><![CDATA[Adding RSS Support]]></title>
-            <link>https://marcollyne.github.io/myPicOnline/blog/2017/09/26/adding-rss.html</link>
-            <guid>https://marcollyne.github.io/myPicOnline/blog/2017/09/26/adding-rss.html</guid>
-            <pubDate>Tue, 26 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></description>
+            <title><![CDATA[Paróquia São Francisco de Assis]]></title>
+            <link>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 3.html</link>
+            <guid>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 3.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="/myPicOnline/img/igreja2.jpg" alt></p> <blockquote> <p>Assis Chateaubriand, PR.</p> </blockquote> ]]></description>
         </item>
         <item>
-            <title><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-            <link>https://marcollyne.github.io/myPicOnline/blog/2017/09/25/testing-rss.html</link>
-            <guid>https://marcollyne.github.io/myPicOnline/blog/2017/09/25/testing-rss.html</guid>
-            <pubDate>Mon, 25 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
-]]></description>
+            <title><![CDATA[Nuvens de algodão]]></title>
+            <link>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 2.html</link>
+            <guid>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 2.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="/myPicOnline/img/nuvens.jpg" alt></p> <blockquote> <p>Patrimônio Nice, Assis Chateaubriand, PR.</p> </blockquote> ]]></description>
         </item>
         <item>
-            <title><![CDATA[New Blog Post]]></title>
-            <link>https://marcollyne.github.io/myPicOnline/blog/2017/04/10/blog-post-two.html</link>
-            <guid>https://marcollyne.github.io/myPicOnline/blog/2017/04/10/blog-post-two.html</guid>
-            <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></description>
+            <title><![CDATA[Bili Chico]]></title>
+            <link>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 1.html</link>
+            <guid>https://marcollyne.github.io/myPicOnline/blog/2021/02/26 / 1.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="/myPicOnline/img/bili.jpg" alt></p> <blockquote> <p>Formosa do Oeste, PR.</p> </blockquote> ]]></description>
         </item>
         <item>
-            <title><![CDATA[Blog Title]]></title>
-            <link>https://marcollyne.github.io/myPicOnline/blog/2016/03/11/blog-post.html</link>
-            <guid>https://marcollyne.github.io/myPicOnline/blog/2016/03/11/blog-post.html</guid>
-            <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></description>
+            <title><![CDATA[Paróquia São Francisco de Assis]]></title>
+            <link>https://marcollyne.github.io/myPicOnline/blog/2021/02/25.html</link>
+            <guid>https://marcollyne.github.io/myPicOnline/blog/2021/02/25.html</guid>
+            <pubDate>Thu, 25 Feb 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="/myPicOnline/img/igreja1.jpg" alt></p> <blockquote> <p>Assis Chateaubriand, PR.</p> </blockquote> ]]></description>
         </item>
     </channel>
 </rss>
